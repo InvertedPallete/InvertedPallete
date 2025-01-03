@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Gunjit!
 👩🏻‍💻 Computer enthusiast learning and sharing about my journey in tech<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=InvertedPallete&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
